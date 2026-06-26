@@ -1,0 +1,75 @@
+match_no,date,team1,team2,venue,city,winner,win_by,win_margin,toss_winner
+1,2026-03-28,Royal Challengers Bengaluru,Sunrisers Hyderabad,M. Chinnaswamy Stadium,Bengaluru,Royal Challengers Bengaluru,wickets,2,Royal Challengers Bengaluru
+2,2026-03-29,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,Mumbai,Kolkata Knight Riders,wickets,4,Mumbai Indians
+3,2026-03-30,Chennai Super Kings,Rajasthan Royals,M. A. Chidambaram Stadium,Chennai,Rajasthan Royals,wickets,8,Rajasthan Royals
+4,2026-03-31,Gujarat Titans,Punjab Kings,Narendra Modi Stadium,Ahmedabad,Punjab Kings,wickets,3,Punjab Kings
+5,2026-04-01,Delhi Capitals,Lucknow Super Giants,Arun Jaitley Stadium,Delhi,Delhi Capitals,wickets,6,Delhi Capitals
+6,2026-04-02,Sunrisers Hyderabad,Chennai Super Kings,Rajiv Gandhi Stadium,Hyderabad,Sunrisers Hyderabad,runs,10,Sunrisers Hyderabad
+7,2026-04-03,Kolkata Knight Riders,Gujarat Titans,Eden Gardens,Kolkata,Kolkata Knight Riders,runs,29,Gujarat Titans
+8,2026-04-04,Delhi Capitals,Mumbai Indians,Arun Jaitley Stadium,Delhi,Delhi Capitals,wickets,6,Delhi Capitals
+9,2026-04-04,Gujarat Titans,Rajasthan Royals,Narendra Modi Stadium,Ahmedabad,Rajasthan Royals,wickets,6,Rajasthan Royals
+10,2026-04-05,Royal Challengers Bengaluru,Kolkata Knight Riders,M. Chinnaswamy Stadium,Bengaluru,Royal Challengers Bengaluru,wickets,6,Royal Challengers Bengaluru
+11,2026-04-06,Lucknow Super Giants,Punjab Kings,Ekana Cricket Stadium,Lucknow,Punjab Kings,wickets,7,Lucknow Super Giants
+12,2026-04-07,Chennai Super Kings,Gujarat Titans,M. A. Chidambaram Stadium,Chennai,Gujarat Titans,runs,89,Gujarat Titans
+13,2026-04-08,Rajasthan Royals,Delhi Capitals,Sawai Mansingh Stadium,Jaipur,Delhi Capitals,wickets,7,Delhi Capitals
+14,2026-04-09,Mumbai Indians,Lucknow Super Giants,Wankhede Stadium,Mumbai,Mumbai Indians,wickets,6,Mumbai Indians
+15,2026-04-10,Punjab Kings,Royal Challengers Bengaluru,HPCA Cricket Stadium,Dharamshala,Royal Challengers Bengaluru,runs,23,Royal Challengers Bengaluru
+16,2026-04-11,Sunrisers Hyderabad,Kolkata Knight Riders,Rajiv Gandhi Stadium,Hyderabad,Sunrisers Hyderabad,runs,65,Sunrisers Hyderabad
+17,2026-04-12,Lucknow Super Giants,Delhi Capitals,Ekana Cricket Stadium,Lucknow,Delhi Capitals,wickets,6,Lucknow Super Giants
+18,2026-04-13,Gujarat Titans,Kolkata Knight Riders,Narendra Modi Stadium,Ahmedabad,Gujarat Titans,wickets,5,Gujarat Titans
+19,2026-04-14,Chennai Super Kings,Mumbai Indians,M. A. Chidambaram Stadium,Chennai,Chennai Super Kings,runs,103,Chennai Super Kings
+20,2026-04-14,Royal Challengers Bengaluru,Rajasthan Royals,M. Chinnaswamy Stadium,Bengaluru,Royal Challengers Bengaluru,wickets,2,Rajasthan Royals
+21,2026-04-16,Rajasthan Royals,Chennai Super Kings,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,wickets,8,Rajasthan Royals
+22,2026-04-17,Sunrisers Hyderabad,Gujarat Titans,Rajiv Gandhi Stadium,Hyderabad,Gujarat Titans,runs,82,Sunrisers Hyderabad
+23,2026-04-18,Delhi Capitals,Punjab Kings,Arun Jaitley Stadium,Delhi,Punjab Kings,wickets,6,Punjab Kings
+24,2026-04-19,Kolkata Knight Riders,Lucknow Super Giants,Eden Gardens,Kolkata,Lucknow Super Giants,wickets,3,Kolkata Knight Riders
+25,2026-04-20,Mumbai Indians,Rajasthan Royals,Wankhede Stadium,Mumbai,Rajasthan Royals,runs,30,Rajasthan Royals
+26,2026-04-21,Gujarat Titans,Royal Challengers Bengaluru,Narendra Modi Stadium,Ahmedabad,Gujarat Titans,wickets,4,Royal Challengers Bengaluru
+27,2026-04-22,Chennai Super Kings,Kolkata Knight Riders,M. A. Chidambaram Stadium,Chennai,Chennai Super Kings,runs,32,Chennai Super Kings
+28,2026-04-23,Punjab Kings,Lucknow Super Giants,HPCA Cricket Stadium,Dharamshala,Punjab Kings,runs,54,Punjab Kings
+29,2026-04-24,Sunrisers Hyderabad,Rajasthan Royals,Rajiv Gandhi Stadium,Hyderabad,Sunrisers Hyderabad,runs,57,Sunrisers Hyderabad
+30,2026-04-25,Delhi Capitals,Gujarat Titans,Arun Jaitley Stadium,Delhi,Punjab Kings,wickets,3,Gujarat Titans
+31,2026-04-26,Kolkata Knight Riders,Punjab Kings,Eden Gardens,Kolkata,Match abandoned,N/A,0,N/A
+32,2026-04-27,Royal Challengers Bengaluru,Lucknow Super Giants,M. Chinnaswamy Stadium,Bengaluru,Royal Challengers Bengaluru,wickets,5,Royal Challengers Bengaluru
+33,2026-04-28,Mumbai Indians,Gujarat Titans,Wankhede Stadium,Mumbai,Mumbai Indians,runs,99,Mumbai Indians
+34,2026-04-29,Rajasthan Royals,Lucknow Super Giants,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,runs,40,Rajasthan Royals
+35,2026-04-30,Chennai Super Kings,Punjab Kings,M. A. Chidambaram Stadium,Chennai,Punjab Kings,wickets,5,Punjab Kings
+36,2026-05-01,Sunrisers Hyderabad,Lucknow Super Giants,Rajiv Gandhi Stadium,Hyderabad,Lucknow Super Giants,wickets,5,Lucknow Super Giants
+37,2026-05-02,Gujarat Titans,Mumbai Indians,Narendra Modi Stadium,Ahmedabad,Gujarat Titans,wickets,4,Gujarat Titans
+38,2026-05-03,Delhi Capitals,Kolkata Knight Riders,Arun Jaitley Stadium,Delhi,Delhi Capitals,runs,40,Delhi Capitals
+39,2026-05-04,Royal Challengers Bengaluru,Delhi Capitals,M. Chinnaswamy Stadium,Bengaluru,Delhi Capitals,wickets,6,Delhi Capitals
+40,2026-05-05,Punjab Kings,Rajasthan Royals,HPCA Cricket Stadium,Dharamshala,Rajasthan Royals,wickets,6,Rajasthan Royals
+41,2026-05-06,Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,Kolkata,Kolkata Knight Riders,wickets,4,Kolkata Knight Riders
+42,2026-05-07,Lucknow Super Giants,Gujarat Titans,Ekana Cricket Stadium,Lucknow,Gujarat Titans,wickets,7,Gujarat Titans
+43,2026-05-08,Mumbai Indians,Punjab Kings,Wankhede Stadium,Mumbai,Punjab Kings,wickets,7,Mumbai Indians
+44,2026-05-09,Chennai Super Kings,Lucknow Super Giants,M. A. Chidambaram Stadium,Chennai,Chennai Super Kings,wickets,5,Chennai Super Kings
+45,2026-05-10,Sunrisers Hyderabad,Royal Challengers Bengaluru,Rajiv Gandhi Stadium,Hyderabad,Sunrisers Hyderabad,runs,55,Sunrisers Hyderabad
+46,2026-05-11,Delhi Capitals,Rajasthan Royals,Arun Jaitley Stadium,Delhi,Delhi Capitals,wickets,5,Delhi Capitals
+47,2026-05-12,Gujarat Titans,Rajasthan Royals,Narendra Modi Stadium,Ahmedabad,Gujarat Titans,runs,77,Gujarat Titans
+48,2026-05-13,Kolkata Knight Riders,Royal Challengers Bengaluru,Eden Gardens,Kolkata,Royal Challengers Bengaluru,wickets,6,Royal Challengers Bengaluru
+49,2026-05-14,Lucknow Super Giants,Royal Challengers Bengaluru,Ekana Cricket Stadium,Lucknow,Lucknow Super Giants,runs,9,Lucknow Super Giants
+50,2026-05-15,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,Mumbai,Mumbai Indians,wickets,6,Mumbai Indians
+51,2026-05-16,Punjab Kings,Gujarat Titans,HPCA Cricket Stadium,Dharamshala,Punjab Kings,wickets,3,Punjab Kings
+52,2026-05-17,Rajasthan Royals,Royal Challengers Bengaluru,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,wickets,6,Rajasthan Royals
+53,2026-05-18,Sunrisers Hyderabad,Punjab Kings,Rajiv Gandhi Stadium,Hyderabad,Punjab Kings,wickets,6,Sunrisers Hyderabad
+54,2026-05-19,Chennai Super Kings,Delhi Capitals,M. A. Chidambaram Stadium,Chennai,Delhi Capitals,wickets,8,Delhi Capitals
+55,2026-05-20,Gujarat Titans,Lucknow Super Giants,Narendra Modi Stadium,Ahmedabad,Gujarat Titans,wickets,7,Gujarat Titans
+56,2026-05-21,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Kolkata,Kolkata Knight Riders,Super Over,0,Kolkata Knight Riders
+57,2026-05-22,Mumbai Indians,Royal Challengers Bengaluru,Wankhede Stadium,Mumbai,Royal Challengers Bengaluru,wickets,2,Royal Challengers Bengaluru
+58,2026-05-23,Rajasthan Royals,Mumbai Indians,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,runs,27,Rajasthan Royals
+59,2026-05-24,Royal Challengers Bengaluru,Punjab Kings,Shaheed Veer Narayan Singh Stadium,Raipur,Royal Challengers Bengaluru,runs,23,Punjab Kings
+60,2026-05-25,Lucknow Super Giants,Kolkata Knight Riders,Ekana Cricket Stadium,Lucknow,Kolkata Knight Riders,wickets,4,Lucknow Super Giants
+61,2026-05-26,Delhi Capitals,Sunrisers Hyderabad,Arun Jaitley Stadium,Delhi,Sunrisers Hyderabad,runs,47,Delhi Capitals
+62,2026-05-27,Chennai Super Kings,Royal Challengers Bengaluru,M. A. Chidambaram Stadium,Chennai,Royal Challengers Bengaluru,runs,43,Royal Challengers Bengaluru
+63,2026-05-28,Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium,Mumbai,Sunrisers Hyderabad,wickets,6,Sunrisers Hyderabad
+64,2026-05-29,Gujarat Titans,Delhi Capitals,Narendra Modi Stadium,Ahmedabad,Gujarat Titans,runs,1,Gujarat Titans
+65,2026-05-30,Rajasthan Royals,Kolkata Knight Riders,ACA Cricket Stadium,Guwahati,Rajasthan Royals,wickets,7,Rajasthan Royals
+66,2026-05-31,Lucknow Super Giants,Mumbai Indians,Ekana Cricket Stadium,Lucknow,Mumbai Indians,wickets,6,Mumbai Indians
+67,2026-06-01,Punjab Kings,Sunrisers Hyderabad,HPCA Cricket Stadium,Dharamshala,Sunrisers Hyderabad,runs,33,Punjab Kings
+68,2026-06-02,Delhi Capitals,Royal Challengers Bengaluru,Arun Jaitley Stadium,Delhi,Royal Challengers Bengaluru,wickets,9,Royal Challengers Bengaluru
+69,2026-06-03,Gujarat Titans,Chennai Super Kings,Narendra Modi Stadium,Ahmedabad,Gujarat Titans,wickets,8,Gujarat Titans
+70,2026-06-04,Rajasthan Royals,Sunrisers Hyderabad,Sawai Mansingh Stadium,Jaipur,Sunrisers Hyderabad,wickets,5,Sunrisers Hyderabad
+71,2026-05-26,Royal Challengers Bengaluru,Gujarat Titans,HPCA Cricket Stadium,Dharamshala,Royal Challengers Bengaluru,wickets,5,Gujarat Titans
+72,2026-05-27,Sunrisers Hyderabad,Rajasthan Royals,Maharaja Yadavindra Singh Stadium,Mullanpur,Rajasthan Royals,wickets,4,Sunrisers Hyderabad
+73,2026-05-29,Rajasthan Royals,Gujarat Titans,Maharaja Yadavindra Singh Stadium,Mullanpur,Gujarat Titans,wickets,3,Rajasthan Royals
+74,2026-05-31,Gujarat Titans,Royal Challengers Bengaluru,Narendra Modi Stadium,Ahmedabad,Royal Challengers Bengaluru,wickets,5,Gujarat Titans
